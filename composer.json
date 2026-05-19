@@ -1,0 +1,16 @@
+{
+    "name": "justine-santos/ws03",
+    "description": "Job seeker application",
+    "authors": [
+        {
+            "name": "Justine Santos",
+            "email": "santosjustine678@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
